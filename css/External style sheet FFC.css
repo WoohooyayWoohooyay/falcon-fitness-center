@@ -1,0 +1,54 @@
+body {background-color: darkGray; color:purple ; font-family: 
+ Times new roman, Arial, serif; font-size:12pt; text-align: center;};
+h1 {background-color: black; color: purple; font-family: Monospace; 
+font-weight: 1000; font-style: italic; text-align: center;} 
+h4 {background-color: black; color: purple; font-family: Monospace; 
+font-weight: 1000; font-style: italic; text-align: center;} 
+p{border: solid 10px white; padding : 20px; margin: 30px; border-style: double;
+border-width: 12px; border-color: purple; border-radius: 50px; 
+box-shadow: 10px 10px 10px; border-left-width: 20px; border-right-width: 
+20px; border-top-width: 20px; border-bottom-width: 20px; border-bottom-color: pink; border-top-color: aqua; 
+border-left-color: yellow; border-right-color: black; text-align: left; border-radius: 20px;}
+table {border: solid 10px white; padding : 20px; margin: 30px; border-style: double;
+border-width: 12px; border-color: purple; border-radius: 50px; 
+box-shadow: 10px 10px 10px; border-left-width: 20px; border-right-width: 
+20px; border-top-width: 20px; border-bottom-width: 20px; border-bottom-color: pink; border-top-color: aqua; 
+border-left-color: yellow; border-right-color: black; text-align: left; border-radius: 20px;}
+
+
+.container1 {margin-left: auto; margin-right: auto;}
+.container2 {display: flex;}
+.img_wrapper img.personaltrainer {
+    width: 25%;
+	float: left;
+}
+.container3{display: flex;}
+
+	nav ul {
+		text-align: center;
+		}
+		
+	nav ul li{
+		list-style:none;
+		display: inline-block;
+		}
+	nav ul li a{
+		display: block;
+		text-decoration: none;
+		text-transform: uppercase;
+		color: #ffffff;
+		font-size: 13px;
+		letter-spacing: 2px;
+		font-family:'Raleway',  sans-serif;
+		font-weight: 600;
+		padding: 25px;
+		}
+	nav ul li a:hover {
+				background-color: #211b4385;
+				transition: all ease 1.5s;
+				}
+.container1 {
+		display:flex;
+}
+
+	

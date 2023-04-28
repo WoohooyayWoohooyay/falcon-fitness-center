@@ -1,0 +1,21 @@
+body {background-color: purple; color:black ; font-family: 
+ monospace, Arial, serif; font-size:12pt; text-align: center;};
+h1 {background-color: black; color: black; font-family: Monospace; 
+font-weight: 1000; font-style: italic; text-align: center;} 
+p{border: solid 10px white; padding : 20px; margin: 30px; border-style: double;
+border-width: 12px; border-color: black; border-radius: 50px; 
+box-shadow: 10px 10px 10px; border-left-width: 20px; border-right-width: 
+20px; border-top-width: 20px; border-bottom-width: 20px; border-bottom-coloro: pink; border-top-color: blue; 
+border-left-color: blue; border-right-color: black; text-align: left; border-radius: 20px;}
+ul {display: inline-block; border: solid 10px white; padding : 17px; margin: 30px; border-style: double;
+border-width: 12px; border-color: black; border-radius: 50px; 
+box-shadow: 10px 10px 10px; border-left-width: 20px; border-right-width: 
+20px; border-top-width: 20px; border-bottom-width: 20px; border-bottom-coloro: pink; border-top-color: blue; 
+border-left-color: blue; border-right-color: blue; text-align: left; border-radius: 20px;}
+.container1 {margin-left: auto; margin-right: auto;}
+.container2 {display: flex;}
+.img_wrapper img.personaltrainer {
+    width: 25%;
+	float: left;
+}
+.container3{display: flex;}
